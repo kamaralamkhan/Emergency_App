@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471359525422",
+    "project_id": "project1-f8b18",
+    "storage_bucket": "project1-f8b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471359525422:android:b5c5c70ed4214ca763c5bf",
+        "android_client_info": {
+          "package_name": "com.dhrikya.sos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZiIZQ63TasevPdhDS_ms-YlLUunVc1qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
